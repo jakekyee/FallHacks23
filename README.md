@@ -8,11 +8,11 @@ Cole, Hannah, Jake, Christian and Andy's Fall Hacks submission
 
 
 
-# Leaderboard Stuff
+# Leaderboard Stuff - A Dynamic Static Site
 
 ## https://jakeyee.com/leafderboard
 
-A Dynamic Static Site
+
 
 
 The leaderboard of the site is hosted as a Static site on Cloudflare Pages. This introduced a number of technical problems, each of which had a technical solution, with in turn introduced another technical problem. This continued until the snake started eating its own tail and the technical problems started becoming technical solutions. 
