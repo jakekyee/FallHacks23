@@ -10,6 +10,8 @@ Cole, Hannah, Jake, Christian and Andy's Fall Hacks submission
 
 # Leaderboard Stuff
 
+## https://jakeyee.com/leafderboard
+
 A Dynamic Static Site
 
 
@@ -19,31 +21,31 @@ The flow of the backend is as follows:
 
 ![path](https://github.com/Masagoro1/FallHacks23/assets/99901262/a1f98001-6e95-4d4b-bfb9-8cb4fb8b9058)
 
-User Wins game and uploads score
+User Wins game and uploads score  
 
 
-This score is sent to Discord via a Webhook
+This score is sent to Discord via a Webhook  
 
 
-From here, a Discord Bot receives this message
+From here, a Discord Bot receives this message  
 
 
-A python script on my computer receives this message from the bot
+A python script on my computer receives this message from the bot  
 
 
-Saves the scores to my computer
+Saves the scores to my computer  
 
 
-And creates a javascript file containing all the scores
+And creates a javascript file containing all the scores  
 
 
-This file is uploaded to a github repo via the Github API
+This file is uploaded to a github repo via the Github API  
 
 
-Before being sent to GitHack, to cache the file and make it available
+Before being sent to GitHack, to cache the file and make it available  
 
 
-A seperate static site hosted on Cloudflare Pages requests the file
+A seperate static site hosted on Cloudflare Pages requests the file  
 
 
-Which generates an html table and and it visible to the user.
+Which generates an html table and and it visible to the user.  
