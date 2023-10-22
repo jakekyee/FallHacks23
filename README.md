@@ -35,7 +35,7 @@ Birge Adventure represents turning over a new leaf as Birge grows and changes as
 Birge is trying to reach the ground. Birge faces many obstacles that Birge must maneuver. 
 
 
-#APIs and Resources used:
+# APIs and Resources used:
 
 Discord API
 Github API
@@ -44,7 +44,7 @@ Stackoverflow
 Youtube
 
 
-#Source code and github page
+# Source code and github page
 https://github.com/Masagoro1/FallHacks23/tree/main
 
 
@@ -75,7 +75,7 @@ The flow of the backend is as follows:
 
 
 
-#Lyrics to Birgalicious
+# Lyrics to Birgalicious
 
 Listen up, y'all, 'cause this is it
 The beat that I'm bangin' is delicious
