@@ -6,11 +6,12 @@ Cole, Hannah, Jake, Christian and Andy's Fall Hacks submission
 
 
 
-
+## https://jakeyee.com/landing
 
 # Leaderboard Stuff - A Dynamic Static Site
 
 ## https://jakeyee.com/leafderboard
+
 
 
 
