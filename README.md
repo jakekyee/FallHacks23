@@ -3,7 +3,7 @@ Cole, Hannah, Jake, Christian and Andy's Fall Hacks submission
 
 
 
-#Birge Adventure
+# Birge Adventure
 Hackathon 2023
 October 21, 2023
 
@@ -15,13 +15,13 @@ Installation:
 3. Run Turning over a new leaf.exe
 4. Have fun :)
 
-#Controls:
+# Controls:
 
 a or left arrow to move left
 d or right arrow to move right
 s or down arrow to move down 
 
-#Credits:
+# Credits:
 
 Cole McKee cam45@sfu.ca: The Game - code in Unity
 Hannah Lim hla342@sfu.ca: Graphics and Sprites
