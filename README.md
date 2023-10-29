@@ -32,11 +32,11 @@ s or down arrow to move down
 
 # Credits:
 
-Cole McKee cam45@sfu.ca: The Game - code in Unity
-Hannah Lim hla342@sfu.ca: Graphics and Sprites
-Jake Jacob Lim jky9@sfu.ca: Landing page, Backend development stuff, leaderboard, server
-Christian Cho cac40@sfu.ca: Music and Sound Effects
-Andy Bae jba168@sfu.ca: Crow work (singular) and coding consultant - perchance
+Cole McKee cam45@sfu.ca: The Game - code in Unity  
+Hannah Lim hla342@sfu.ca: Graphics and Sprites  
+Jake Jacob Lim jky9@sfu.ca: Landing page, Backend development stuff, leaderboard, server  
+Christian Cho cac40@sfu.ca: Music and Sound Effects  
+Andy Bae jba168@sfu.ca: Crow work (singular) and coding consultant - perchance  
 
 Birge Adventure represents turning over a new leaf as Birge grows and changes as a small leaf spirit every time he dies. Birge also turns Birge's leaf over every time Birge dies to get a new chance at life. This game is capable of solving anyone's boredom. Birge's name comes from the latin word Birch tree which represents "a new beginning". The actual source of Birge's name is derived from Hannah mishearing Andy say, "Birch" because he is ESL and cannot pronounce words properly (LMAO). Anyways... there are other elements that tie into the theme of "turning over a new leaf" such as Birge's leaf because... it is a leaf.
 
