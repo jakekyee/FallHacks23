@@ -34,7 +34,7 @@ s or down arrow to move down
 
 Cole McKee cam45@sfu.ca: The Game - code in Unity  
 Hannah Lim hla342@sfu.ca: Graphics and Sprites  
-Jake Jacob Lim jky9@sfu.ca: Landing page, Backend development stuff, leaderboard, server  
+Jake Jacob Yee jky9@sfu.ca: Landing page, Backend development stuff, leaderboard, server  
 Christian Cho cac40@sfu.ca: Music and Sound Effects  
 Andy Bae jba168@sfu.ca: Crow work (singular) and coding consultant - perchance  
 
